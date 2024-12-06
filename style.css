@@ -1,0 +1,30 @@
+body {
+	background-image:url("file:///C:/Users/Student/Downloads/5506731.jpg");
+}
+h1 {
+	font-family: monospace;
+	color:midnightblue;
+	 padding: 20px;
+           background-color: lightblue; 
+           border-radius: 5px;
+           box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+           opacity: 0.9; /* Slight transparency */
+}
+h2 {
+	font-family:monospace;
+	color:midnightblue;
+	 padding: 20px;
+           background-color: lightblue; 
+           border-radius: 5px;
+           box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+           opacity: 0.9; /* Slight transparency */
+}
+p {
+	font-family:monospace;
+	color:midnightblue;
+	 padding: 20px;
+           background-color: lightblue; 
+           border-radius: 5px;
+           box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+           opacity: 0.9; /* Slight transparency */
+}
